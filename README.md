@@ -10,9 +10,8 @@ Compreender melhor os hábitos, dores e necessidades de usuários de apps de tar
 
 - **plano-de-pesquisa.md** — Objetivos, hipóteses e métodos utilizados
 - **entrevistas.md** — Dados coletados de entrevistas com usuários
-- **mapa-de-afinidades.png** — Análise e agrupamento dos achados
-- **personas.png** — Perfis representativos dos usuários
-- **jornada-do-usuario.png** — Caminho e pontos de melhoria
+- **CARDUSER.png** — Perfis representativos dos usuários
+- **UserJourney.png** — Caminho e pontos de melhoria
 
 ## 🧠 Ferramentas Utilizadas
 
